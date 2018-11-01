@@ -1,0 +1,1107 @@
+|ula
+saidaUla[0] <= mux_sd:inst28.result[0]
+saidaUla[1] <= mux_sd:inst28.result[1]
+saidaUla[2] <= mux_sd:inst28.result[2]
+saidaUla[3] <= mux_sd:inst28.result[3]
+saidaUla[4] <= mux_sd:inst28.result[4]
+saidaUla[5] <= mux_sd:inst28.result[5]
+saidaUla[6] <= mux_sd:inst28.result[6]
+saidaUla[7] <= mux_sd:inst28.result[7]
+a[0] => aIGUALb:inst27.a8[0]
+a[0] => xnor_completo:inst17.a7[0]
+a[0] => xor_completo:inst16.a6[0]
+a[0] => subtrator_completoBmenosA:inst15.a5[0]
+a[0] => subtrator_completoAmenosB:inst.a4[0]
+a[0] => somador_completo:inst14.a1[0]
+a[1] => aIGUALb:inst27.a8[1]
+a[1] => xnor_completo:inst17.a7[1]
+a[1] => xor_completo:inst16.a6[1]
+a[1] => subtrator_completoBmenosA:inst15.a5[1]
+a[1] => subtrator_completoAmenosB:inst.a4[1]
+a[1] => somador_completo:inst14.a1[1]
+a[2] => aIGUALb:inst27.a8[2]
+a[2] => xnor_completo:inst17.a7[2]
+a[2] => xor_completo:inst16.a6[2]
+a[2] => subtrator_completoBmenosA:inst15.a5[2]
+a[2] => subtrator_completoAmenosB:inst.a4[2]
+a[2] => somador_completo:inst14.a1[2]
+a[3] => aIGUALb:inst27.a8[3]
+a[3] => xnor_completo:inst17.a7[3]
+a[3] => xor_completo:inst16.a6[3]
+a[3] => subtrator_completoBmenosA:inst15.a5[3]
+a[3] => subtrator_completoAmenosB:inst.a4[3]
+a[3] => somador_completo:inst14.a1[3]
+a[4] => aIGUALb:inst27.a8[4]
+a[4] => xnor_completo:inst17.a7[4]
+a[4] => xor_completo:inst16.a6[4]
+a[4] => subtrator_completoBmenosA:inst15.a5[4]
+a[4] => subtrator_completoAmenosB:inst.a4[4]
+a[4] => somador_completo:inst14.a1[4]
+a[5] => aIGUALb:inst27.a8[5]
+a[5] => xnor_completo:inst17.a7[5]
+a[5] => xor_completo:inst16.a6[5]
+a[5] => subtrator_completoBmenosA:inst15.a5[5]
+a[5] => subtrator_completoAmenosB:inst.a4[5]
+a[5] => somador_completo:inst14.a1[5]
+a[6] => aIGUALb:inst27.a8[6]
+a[6] => xnor_completo:inst17.a7[6]
+a[6] => xor_completo:inst16.a6[6]
+a[6] => subtrator_completoBmenosA:inst15.a5[6]
+a[6] => subtrator_completoAmenosB:inst.a4[6]
+a[6] => somador_completo:inst14.a1[6]
+a[7] => aIGUALb:inst27.a8[7]
+a[7] => xnor_completo:inst17.a7[7]
+a[7] => xor_completo:inst16.a6[7]
+a[7] => subtrator_completoBmenosA:inst15.a5[7]
+a[7] => subtrator_completoAmenosB:inst.a4[7]
+a[7] => somador_completo:inst14.a1[7]
+b[0] => aIGUALb:inst27.b8[0]
+b[0] => xnor_completo:inst17.b7[0]
+b[0] => xor_completo:inst16.b6[0]
+b[0] => subtrator_completoBmenosA:inst15.b5[0]
+b[0] => subtrator_completoAmenosB:inst.b4[0]
+b[0] => somador_completo:inst14.b1[0]
+b[1] => aIGUALb:inst27.b8[1]
+b[1] => xnor_completo:inst17.b7[1]
+b[1] => xor_completo:inst16.b6[1]
+b[1] => subtrator_completoBmenosA:inst15.b5[1]
+b[1] => subtrator_completoAmenosB:inst.b4[1]
+b[1] => somador_completo:inst14.b1[1]
+b[2] => aIGUALb:inst27.b8[2]
+b[2] => xnor_completo:inst17.b7[2]
+b[2] => xor_completo:inst16.b6[2]
+b[2] => subtrator_completoBmenosA:inst15.b5[2]
+b[2] => subtrator_completoAmenosB:inst.b4[2]
+b[2] => somador_completo:inst14.b1[2]
+b[3] => aIGUALb:inst27.b8[3]
+b[3] => xnor_completo:inst17.b7[3]
+b[3] => xor_completo:inst16.b6[3]
+b[3] => subtrator_completoBmenosA:inst15.b5[3]
+b[3] => subtrator_completoAmenosB:inst.b4[3]
+b[3] => somador_completo:inst14.b1[3]
+b[4] => aIGUALb:inst27.b8[4]
+b[4] => xnor_completo:inst17.b7[4]
+b[4] => xor_completo:inst16.b6[4]
+b[4] => subtrator_completoBmenosA:inst15.b5[4]
+b[4] => subtrator_completoAmenosB:inst.b4[4]
+b[4] => somador_completo:inst14.b1[4]
+b[5] => aIGUALb:inst27.b8[5]
+b[5] => xnor_completo:inst17.b7[5]
+b[5] => xor_completo:inst16.b6[5]
+b[5] => subtrator_completoBmenosA:inst15.b5[5]
+b[5] => subtrator_completoAmenosB:inst.b4[5]
+b[5] => somador_completo:inst14.b1[5]
+b[6] => aIGUALb:inst27.b8[6]
+b[6] => xnor_completo:inst17.b7[6]
+b[6] => xor_completo:inst16.b6[6]
+b[6] => subtrator_completoBmenosA:inst15.b5[6]
+b[6] => subtrator_completoAmenosB:inst.b4[6]
+b[6] => somador_completo:inst14.b1[6]
+b[7] => aIGUALb:inst27.b8[7]
+b[7] => xnor_completo:inst17.b7[7]
+b[7] => xor_completo:inst16.b6[7]
+b[7] => subtrator_completoBmenosA:inst15.b5[7]
+b[7] => subtrator_completoAmenosB:inst.b4[7]
+b[7] => somador_completo:inst14.b1[7]
+s[0] => mux_sd:inst28.sel[0]
+s[1] => mux_sd:inst28.sel[1]
+s[2] => mux_sd:inst28.sel[2]
+
+
+|ula|mux_sd:inst28
+data0x[0] => sub_wire1[0].IN1
+data0x[1] => sub_wire1[1].IN1
+data0x[2] => sub_wire1[2].IN1
+data0x[3] => sub_wire1[3].IN1
+data0x[4] => sub_wire1[4].IN1
+data0x[5] => sub_wire1[5].IN1
+data0x[6] => sub_wire1[6].IN1
+data0x[7] => sub_wire1[7].IN1
+data1x[0] => sub_wire1[8].IN1
+data1x[1] => sub_wire1[9].IN1
+data1x[2] => sub_wire1[10].IN1
+data1x[3] => sub_wire1[11].IN1
+data1x[4] => sub_wire1[12].IN1
+data1x[5] => sub_wire1[13].IN1
+data1x[6] => sub_wire1[14].IN1
+data1x[7] => sub_wire1[15].IN1
+data2x[0] => sub_wire1[16].IN1
+data2x[1] => sub_wire1[17].IN1
+data2x[2] => sub_wire1[18].IN1
+data2x[3] => sub_wire1[19].IN1
+data2x[4] => sub_wire1[20].IN1
+data2x[5] => sub_wire1[21].IN1
+data2x[6] => sub_wire1[22].IN1
+data2x[7] => sub_wire1[23].IN1
+data3x[0] => sub_wire1[24].IN1
+data3x[1] => sub_wire1[25].IN1
+data3x[2] => sub_wire1[26].IN1
+data3x[3] => sub_wire1[27].IN1
+data3x[4] => sub_wire1[28].IN1
+data3x[5] => sub_wire1[29].IN1
+data3x[6] => sub_wire1[30].IN1
+data3x[7] => sub_wire1[31].IN1
+data4x[0] => sub_wire1[32].IN1
+data4x[1] => sub_wire1[33].IN1
+data4x[2] => sub_wire1[34].IN1
+data4x[3] => sub_wire1[35].IN1
+data4x[4] => sub_wire1[36].IN1
+data4x[5] => sub_wire1[37].IN1
+data4x[6] => sub_wire1[38].IN1
+data4x[7] => sub_wire1[39].IN1
+data5x[0] => sub_wire1[40].IN1
+data5x[1] => sub_wire1[41].IN1
+data5x[2] => sub_wire1[42].IN1
+data5x[3] => sub_wire1[43].IN1
+data5x[4] => sub_wire1[44].IN1
+data5x[5] => sub_wire1[45].IN1
+data5x[6] => sub_wire1[46].IN1
+data5x[7] => sub_wire1[47].IN1
+sel[0] => sel[0].IN1
+sel[1] => sel[1].IN1
+sel[2] => sel[2].IN1
+result[0] <= lpm_mux:LPM_MUX_component.result
+result[1] <= lpm_mux:LPM_MUX_component.result
+result[2] <= lpm_mux:LPM_MUX_component.result
+result[3] <= lpm_mux:LPM_MUX_component.result
+result[4] <= lpm_mux:LPM_MUX_component.result
+result[5] <= lpm_mux:LPM_MUX_component.result
+result[6] <= lpm_mux:LPM_MUX_component.result
+result[7] <= lpm_mux:LPM_MUX_component.result
+
+
+|ula|mux_sd:inst28|lpm_mux:LPM_MUX_component
+data[0][0] => mux_6kc:auto_generated.data[0]
+data[0][1] => mux_6kc:auto_generated.data[1]
+data[0][2] => mux_6kc:auto_generated.data[2]
+data[0][3] => mux_6kc:auto_generated.data[3]
+data[0][4] => mux_6kc:auto_generated.data[4]
+data[0][5] => mux_6kc:auto_generated.data[5]
+data[0][6] => mux_6kc:auto_generated.data[6]
+data[0][7] => mux_6kc:auto_generated.data[7]
+data[1][0] => mux_6kc:auto_generated.data[8]
+data[1][1] => mux_6kc:auto_generated.data[9]
+data[1][2] => mux_6kc:auto_generated.data[10]
+data[1][3] => mux_6kc:auto_generated.data[11]
+data[1][4] => mux_6kc:auto_generated.data[12]
+data[1][5] => mux_6kc:auto_generated.data[13]
+data[1][6] => mux_6kc:auto_generated.data[14]
+data[1][7] => mux_6kc:auto_generated.data[15]
+data[2][0] => mux_6kc:auto_generated.data[16]
+data[2][1] => mux_6kc:auto_generated.data[17]
+data[2][2] => mux_6kc:auto_generated.data[18]
+data[2][3] => mux_6kc:auto_generated.data[19]
+data[2][4] => mux_6kc:auto_generated.data[20]
+data[2][5] => mux_6kc:auto_generated.data[21]
+data[2][6] => mux_6kc:auto_generated.data[22]
+data[2][7] => mux_6kc:auto_generated.data[23]
+data[3][0] => mux_6kc:auto_generated.data[24]
+data[3][1] => mux_6kc:auto_generated.data[25]
+data[3][2] => mux_6kc:auto_generated.data[26]
+data[3][3] => mux_6kc:auto_generated.data[27]
+data[3][4] => mux_6kc:auto_generated.data[28]
+data[3][5] => mux_6kc:auto_generated.data[29]
+data[3][6] => mux_6kc:auto_generated.data[30]
+data[3][7] => mux_6kc:auto_generated.data[31]
+data[4][0] => mux_6kc:auto_generated.data[32]
+data[4][1] => mux_6kc:auto_generated.data[33]
+data[4][2] => mux_6kc:auto_generated.data[34]
+data[4][3] => mux_6kc:auto_generated.data[35]
+data[4][4] => mux_6kc:auto_generated.data[36]
+data[4][5] => mux_6kc:auto_generated.data[37]
+data[4][6] => mux_6kc:auto_generated.data[38]
+data[4][7] => mux_6kc:auto_generated.data[39]
+data[5][0] => mux_6kc:auto_generated.data[40]
+data[5][1] => mux_6kc:auto_generated.data[41]
+data[5][2] => mux_6kc:auto_generated.data[42]
+data[5][3] => mux_6kc:auto_generated.data[43]
+data[5][4] => mux_6kc:auto_generated.data[44]
+data[5][5] => mux_6kc:auto_generated.data[45]
+data[5][6] => mux_6kc:auto_generated.data[46]
+data[5][7] => mux_6kc:auto_generated.data[47]
+sel[0] => mux_6kc:auto_generated.sel[0]
+sel[1] => mux_6kc:auto_generated.sel[1]
+sel[2] => mux_6kc:auto_generated.sel[2]
+clock => ~NO_FANOUT~
+aclr => ~NO_FANOUT~
+clken => ~NO_FANOUT~
+result[0] <= mux_6kc:auto_generated.result[0]
+result[1] <= mux_6kc:auto_generated.result[1]
+result[2] <= mux_6kc:auto_generated.result[2]
+result[3] <= mux_6kc:auto_generated.result[3]
+result[4] <= mux_6kc:auto_generated.result[4]
+result[5] <= mux_6kc:auto_generated.result[5]
+result[6] <= mux_6kc:auto_generated.result[6]
+result[7] <= mux_6kc:auto_generated.result[7]
+
+
+|ula|mux_sd:inst28|lpm_mux:LPM_MUX_component|mux_6kc:auto_generated
+data[0] => l1_w0_n0_mux_dataout.IN1
+data[1] => l1_w1_n0_mux_dataout.IN1
+data[2] => l1_w2_n0_mux_dataout.IN1
+data[3] => l1_w3_n0_mux_dataout.IN1
+data[4] => l1_w4_n0_mux_dataout.IN1
+data[5] => l1_w5_n0_mux_dataout.IN1
+data[6] => l1_w6_n0_mux_dataout.IN1
+data[7] => l1_w7_n0_mux_dataout.IN1
+data[8] => l1_w0_n0_mux_dataout.IN1
+data[9] => l1_w1_n0_mux_dataout.IN1
+data[10] => l1_w2_n0_mux_dataout.IN1
+data[11] => l1_w3_n0_mux_dataout.IN1
+data[12] => l1_w4_n0_mux_dataout.IN1
+data[13] => l1_w5_n0_mux_dataout.IN1
+data[14] => l1_w6_n0_mux_dataout.IN1
+data[15] => l1_w7_n0_mux_dataout.IN1
+data[16] => l1_w0_n1_mux_dataout.IN1
+data[17] => l1_w1_n1_mux_dataout.IN1
+data[18] => l1_w2_n1_mux_dataout.IN1
+data[19] => l1_w3_n1_mux_dataout.IN1
+data[20] => l1_w4_n1_mux_dataout.IN1
+data[21] => l1_w5_n1_mux_dataout.IN1
+data[22] => l1_w6_n1_mux_dataout.IN1
+data[23] => l1_w7_n1_mux_dataout.IN1
+data[24] => l1_w0_n1_mux_dataout.IN1
+data[25] => l1_w1_n1_mux_dataout.IN1
+data[26] => l1_w2_n1_mux_dataout.IN1
+data[27] => l1_w3_n1_mux_dataout.IN1
+data[28] => l1_w4_n1_mux_dataout.IN1
+data[29] => l1_w5_n1_mux_dataout.IN1
+data[30] => l1_w6_n1_mux_dataout.IN1
+data[31] => l1_w7_n1_mux_dataout.IN1
+data[32] => l1_w0_n2_mux_dataout.IN1
+data[33] => l1_w1_n2_mux_dataout.IN1
+data[34] => l1_w2_n2_mux_dataout.IN1
+data[35] => l1_w3_n2_mux_dataout.IN1
+data[36] => l1_w4_n2_mux_dataout.IN1
+data[37] => l1_w5_n2_mux_dataout.IN1
+data[38] => l1_w6_n2_mux_dataout.IN1
+data[39] => l1_w7_n2_mux_dataout.IN1
+data[40] => l1_w0_n2_mux_dataout.IN1
+data[41] => l1_w1_n2_mux_dataout.IN1
+data[42] => l1_w2_n2_mux_dataout.IN1
+data[43] => l1_w3_n2_mux_dataout.IN1
+data[44] => l1_w4_n2_mux_dataout.IN1
+data[45] => l1_w5_n2_mux_dataout.IN1
+data[46] => l1_w6_n2_mux_dataout.IN1
+data[47] => l1_w7_n2_mux_dataout.IN1
+result[0] <= l3_w0_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= l3_w1_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= l3_w2_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= l3_w3_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= l3_w4_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= l3_w5_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= l3_w6_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[7] <= l3_w7_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+sel[0] => l1_w0_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w0_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w0_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w0_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w1_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w1_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w1_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w1_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w2_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w2_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w2_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w2_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w3_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w3_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w3_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w3_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w4_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w4_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w4_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w4_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w5_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w5_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w5_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w5_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w6_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w6_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w6_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w6_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w7_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w7_n1_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w7_n2_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w7_n3_mux_dataout.IN0
+sel[0] => _.IN0
+sel[1] => l2_w0_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w0_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w1_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w1_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w2_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w2_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w3_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w3_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w4_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w4_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w5_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w5_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w6_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w6_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w7_n0_mux_dataout.IN0
+sel[1] => _.IN0
+sel[1] => l2_w7_n1_mux_dataout.IN0
+sel[1] => _.IN0
+sel[2] => l3_w0_n0_mux_dataout.IN0
+sel[2] => _.IN0
+sel[2] => l3_w1_n0_mux_dataout.IN0
+sel[2] => _.IN0
+sel[2] => l3_w2_n0_mux_dataout.IN0
+sel[2] => _.IN0
+sel[2] => l3_w3_n0_mux_dataout.IN0
+sel[2] => _.IN0
+sel[2] => l3_w4_n0_mux_dataout.IN0
+sel[2] => _.IN0
+sel[2] => l3_w5_n0_mux_dataout.IN0
+sel[2] => _.IN0
+sel[2] => l3_w6_n0_mux_dataout.IN0
+sel[2] => _.IN0
+sel[2] => l3_w7_n0_mux_dataout.IN0
+sel[2] => _.IN0
+
+
+|ula|aIGUALb:inst27
+resultado8x1[0] <= xor_sd:xor_sd_1.XORsaida
+resultado8x1[1] <= xor_sd:xor_sd_2.XORsaida
+resultado8x1[2] <= xor_sd:xor_sd_3.XORsaida
+resultado8x1[3] <= xor_sd:xor_sd_4.XORsaida
+resultado8x1[4] <= xor_sd:xor_sd_5.XORsaida
+resultado8x1[5] <= xor_sd:xor_sd_6.XORsaida
+resultado8x1[6] <= xor_sd:xor_sd_7.XORsaida
+resultado8x1[7] <= xor_sd:xor_sd_8.XORsaida
+a8[0] => xor_sd:xor_sd_1.a
+a8[1] => xor_sd:xor_sd_2.a
+a8[2] => xor_sd:xor_sd_3.a
+a8[3] => xor_sd:xor_sd_4.a
+a8[4] => xor_sd:xor_sd_5.a
+a8[5] => xor_sd:xor_sd_6.a
+a8[6] => xor_sd:xor_sd_7.a
+a8[7] => xor_sd:xor_sd_8.a
+b8[0] => xor_sd:xor_sd_1.b
+b8[1] => xor_sd:xor_sd_2.b
+b8[2] => xor_sd:xor_sd_3.b
+b8[3] => xor_sd:xor_sd_4.b
+b8[4] => xor_sd:xor_sd_5.b
+b8[5] => xor_sd:xor_sd_6.b
+b8[6] => xor_sd:xor_sd_7.b
+b8[7] => xor_sd:xor_sd_8.b
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_8
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_7
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_6
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_5
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_4
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_3
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_2
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|aIGUALb:inst27|xor_sd:xor_sd_1
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xnor_completo:inst17
+xnorResultado[0] <= xnor_sd:caixa_xnor1.XNORsaida
+xnorResultado[1] <= xnor_sd:caixa_xnor2.XNORsaida
+xnorResultado[2] <= xnor_sd:caixa_xnor3.XNORsaida
+xnorResultado[3] <= xnor_sd:caixa_xnor4.XNORsaida
+xnorResultado[4] <= xnor_sd:caixa_xnor5.XNORsaida
+xnorResultado[5] <= xnor_sd:caixa_xnor6.XNORsaida
+xnorResultado[6] <= xnor_sd:caixa_xnor7.XNORsaida
+xnorResultado[7] <= xnor_sd:caixa_xnor8.XNORsaida
+a7[0] => xnor_sd:caixa_xnor1.a33
+a7[1] => xnor_sd:caixa_xnor2.a33
+a7[2] => xnor_sd:caixa_xnor3.a33
+a7[3] => xnor_sd:caixa_xnor4.a33
+a7[4] => xnor_sd:caixa_xnor5.a33
+a7[5] => xnor_sd:caixa_xnor6.a33
+a7[6] => xnor_sd:caixa_xnor7.a33
+a7[7] => xnor_sd:caixa_xnor8.a33
+b7[0] => xnor_sd:caixa_xnor1.b33
+b7[1] => xnor_sd:caixa_xnor2.b33
+b7[2] => xnor_sd:caixa_xnor3.b33
+b7[3] => xnor_sd:caixa_xnor4.b33
+b7[4] => xnor_sd:caixa_xnor5.b33
+b7[5] => xnor_sd:caixa_xnor6.b33
+b7[6] => xnor_sd:caixa_xnor7.b33
+b7[7] => xnor_sd:caixa_xnor8.b33
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor1
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor2
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor3
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor4
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor5
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor6
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor7
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xnor_completo:inst17|xnor_sd:caixa_xnor8
+XNORsaida <= not3.DB_MAX_OUTPUT_PORT_TYPE
+a33 => and2.IN0
+a33 => no1.IN0
+b33 => not2.IN0
+b33 => and1.IN1
+
+
+|ula|xor_completo:inst16
+xorResultado[0] <= xor_sd:xor_sd1.XORsaida
+xorResultado[1] <= xor_sd:xor_sd2.XORsaida
+xorResultado[2] <= xor_sd:xor_sd3.XORsaida
+xorResultado[3] <= xor_sd:xor_sd4.XORsaida
+xorResultado[4] <= xor_sd:xor_sd5.XORsaida
+xorResultado[5] <= xor_sd:xor_sd6.XORsaida
+xorResultado[6] <= xor_sd:xor_sd7.XORsaida
+xorResultado[7] <= xor_sd:xor_sd8.XORsaida
+a6[0] => xor_sd:xor_sd1.a
+a6[1] => xor_sd:xor_sd2.a
+a6[2] => xor_sd:xor_sd3.a
+a6[3] => xor_sd:xor_sd4.a
+a6[4] => xor_sd:xor_sd5.a
+a6[5] => xor_sd:xor_sd6.a
+a6[6] => xor_sd:xor_sd7.a
+a6[7] => xor_sd:xor_sd8.a
+b6[0] => xor_sd:xor_sd1.b
+b6[1] => xor_sd:xor_sd2.b
+b6[2] => xor_sd:xor_sd3.b
+b6[3] => xor_sd:xor_sd4.b
+b6[4] => xor_sd:xor_sd5.b
+b6[5] => xor_sd:xor_sd6.b
+b6[6] => xor_sd:xor_sd7.b
+b6[7] => xor_sd:xor_sd8.b
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd1
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd2
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd3
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd4
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd5
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd6
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd7
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|xor_completo:inst16|xor_sd:xor_sd8
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|subtrator_completoBmenosA:inst15
+subtracaoResultadoBA[0] <= subtratorBmenosA:subBmenosA1.subtracaoSaida
+subtracaoResultadoBA[1] <= subtratorBmenosA:subBmenosA2.subtracaoSaida
+subtracaoResultadoBA[2] <= subtratorBmenosA:subBmenosA3.subtracaoSaida
+subtracaoResultadoBA[3] <= subtratorBmenosA:subBmenosA4.subtracaoSaida
+subtracaoResultadoBA[4] <= subtratorBmenosA:subBmenosA5.subtracaoSaida
+subtracaoResultadoBA[5] <= subtratorBmenosA:subBmenosA6.subtracaoSaida
+subtracaoResultadoBA[6] <= subtratorBmenosA:subBmenosA7.subtracaoSaida
+subtracaoResultadoBA[7] <= subtratorBmenosA:subBmenosA8.subtracaoSaida
+a5[0] => subtratorBmenosA:subBmenosA1.a
+a5[1] => subtratorBmenosA:subBmenosA2.a
+a5[2] => subtratorBmenosA:subBmenosA3.a
+a5[3] => subtratorBmenosA:subBmenosA4.a
+a5[4] => subtratorBmenosA:subBmenosA5.a
+a5[5] => subtratorBmenosA:subBmenosA6.a
+a5[6] => subtratorBmenosA:subBmenosA7.a
+a5[7] => subtratorBmenosA:subBmenosA8.a
+b5[0] => subtratorBmenosA:subBmenosA1.b
+b5[1] => subtratorBmenosA:subBmenosA2.b
+b5[2] => subtratorBmenosA:subBmenosA3.b
+b5[3] => subtratorBmenosA:subBmenosA4.b
+b5[4] => subtratorBmenosA:subBmenosA5.b
+b5[5] => subtratorBmenosA:subBmenosA6.b
+b5[6] => subtratorBmenosA:subBmenosA7.b
+b5[7] => subtratorBmenosA:subBmenosA8.b
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA8
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA7
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA6
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA5
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA4
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA3
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA2
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoBmenosA:inst15|subtratorBmenosA:subBmenosA1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => not2.IN0
+b => not1.IN0
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => and2.IN0
+a => and1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst
+subtracaoResultadoAB[0] <= subtratorAmenosB:subAmenosB1.subtracaoSaida
+subtracaoResultadoAB[1] <= subtratorAmenosB:subAmenosB2.subtracaoSaida
+subtracaoResultadoAB[2] <= subtratorAmenosB:subAmenosB3.subtracaoSaida
+subtracaoResultadoAB[3] <= subtratorAmenosB:subAmenosB4.subtracaoSaida
+subtracaoResultadoAB[4] <= subtratorAmenosB:subAmenosB5.subtracaoSaida
+subtracaoResultadoAB[5] <= subtratorAmenosB:subAmenosB6.subtracaoSaida
+subtracaoResultadoAB[6] <= subtratorAmenosB:subAmenosB7.subtracaoSaida
+subtracaoResultadoAB[7] <= subtratorAmenosB:subAmenosB8.subtracaoSaida
+a4[0] => subtratorAmenosB:subAmenosB1.a
+a4[1] => subtratorAmenosB:subAmenosB2.a
+a4[2] => subtratorAmenosB:subAmenosB3.a
+a4[3] => subtratorAmenosB:subAmenosB4.a
+a4[4] => subtratorAmenosB:subAmenosB5.a
+a4[5] => subtratorAmenosB:subAmenosB6.a
+a4[6] => subtratorAmenosB:subAmenosB7.a
+a4[7] => subtratorAmenosB:subAmenosB8.a
+b4[0] => subtratorAmenosB:subAmenosB1.b
+b4[1] => subtratorAmenosB:subAmenosB2.b
+b4[2] => subtratorAmenosB:subAmenosB3.b
+b4[3] => subtratorAmenosB:subAmenosB4.b
+b4[4] => subtratorAmenosB:subAmenosB5.b
+b4[5] => subtratorAmenosB:subAmenosB6.b
+b4[6] => subtratorAmenosB:subAmenosB7.b
+b4[7] => subtratorAmenosB:subAmenosB8.b
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB2
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB3
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB4
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB5
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB6
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB7
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|subtrator_completoAmenosB:inst|subtratorAmenosB:subAmenosB8
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+b => and3.IN0
+b => and1.IN1
+b => xor1.IN1
+cIn => and3.IN1
+cIn => and2.IN1
+cIn => xor2.IN0
+a => not2.IN0
+a => not1.IN0
+a => xor1.IN0
+subtracaoSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14
+overflow <= xor_sd:xor_sd_instancia1.XORsaida
+a1[0] => somador:somador1.a2
+a1[1] => somador:somador2.a2
+a1[2] => somador:somador3.a2
+a1[3] => somador:somador4.a2
+a1[4] => somador:somador5.a2
+a1[5] => somador:somador6.a2
+a1[6] => somador:somador7.a2
+a1[7] => somador:somador8.a2
+b1[0] => somador:somador1.b2
+b1[1] => somador:somador2.b2
+b1[2] => somador:somador3.b2
+b1[3] => somador:somador4.b2
+b1[4] => somador:somador5.b2
+b1[5] => somador:somador6.b2
+b1[6] => somador:somador7.b2
+b1[7] => somador:somador8.b2
+r1[0] <= somador:somador1.somaSaida
+r1[1] <= somador:somador2.somaSaida
+r1[2] <= somador:somador3.somaSaida
+r1[3] <= somador:somador4.somaSaida
+r1[4] <= somador:somador5.somaSaida
+r1[5] <= somador:somador6.somaSaida
+r1[6] <= somador:somador7.somaSaida
+r1[7] <= somador:somador8.somaSaida
+
+
+|ula|somador_completo:inst14|xor_sd:xor_sd_instancia1
+XORsaida <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => and2.IN0
+a => no1.IN0
+b => not2.IN0
+b => and1.IN1
+
+
+|ula|somador_completo:inst14|somador:somador7
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14|somador:somador6
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14|somador:somador5
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14|somador:somador4
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14|somador:somador3
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14|somador:somador2
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14|somador:somador1
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ula|somador_completo:inst14|somador:somador8
+somaSaida <= xor2.DB_MAX_OUTPUT_PORT_TYPE
+cIn => xor2.IN0
+cIn => and3.IN1
+cIn => and2.IN1
+a2 => xor1.IN0
+a2 => and2.IN0
+a2 => and1.IN0
+b2 => xor1.IN1
+b2 => and3.IN0
+b2 => and1.IN1
+cOut <= ou2.DB_MAX_OUTPUT_PORT_TYPE
+
+
